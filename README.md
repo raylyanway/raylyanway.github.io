@@ -1,4 +1,4 @@
-# Ilia Railian
+# iLia Railian
 
 **Senior Software Engineer** at Capital Group  
 Los Angeles, California
@@ -38,7 +38,3 @@ Clean Architecture • REST APIs • System Design • TDD • AI-Augmented Deve
 - [LinkedIn](https://www.linkedin.com/in/ilia-railian-65981919a/)
 - [Live Portfolio](https://raylyanway.github.io)
 - Email: raylyanway@gmail.com
-
----
-
-Built with pure HTML + CSS
