@@ -1,7 +1,7 @@
 # iLia Railian
 
 **Senior Software Engineer** at Capital Group  
-Los Angeles, California
+Los Angeles, CA
 
 ---
 
