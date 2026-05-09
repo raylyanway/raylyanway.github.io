@@ -25,6 +25,7 @@
             line-height: 1.7;
             padding: 2rem;
             max-width: 920px;
+            min-width: 190px;
             margin: 0 auto;
         }
       
@@ -68,11 +69,14 @@
             display: flex;
             gap: 1.8rem;
             font-size: 1.05rem;
+            flex-wrap: wrap;
+            justify-content: flex-end;
         }
       
         .nav a {
             color: var(--gray);
             text-decoration: none;
+            white-space: nowrap;
         }
       
         .nav a:hover {
@@ -96,7 +100,7 @@
       
         .skills-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
             gap: 1.8rem;
             margin-top: 1.5rem;
         }
@@ -163,6 +167,7 @@
                 position: static;
                 justify-content: center;
                 margin-bottom: 2rem;
+                gap: 1.2rem;
             }
             h1 {
                 font-size: 2.7rem;
@@ -183,7 +188,7 @@
     </div>
 
     <header>
-        <img src="profile.jpg" alt="Ilia Railian" class="profile-pic">
+        <img src="profile.jpg" alt="iLia Railian" class="profile-pic">
         <h1>iLia Railian</h1>
         <p class="subtitle">Senior Software Engineer at Capital Group</p>
         <p class="tagline">Los Angeles, California • Clean Architecture • AI-Augmented Development</p>
